@@ -1,0 +1,8 @@
+{
+  "name": "Velvet & Rose | Nail Salon",
+  "description": "A luxury boutique nail sanctuary offering signature manicures, spa pedicures, minimalist nail artistry, and bespoke appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
